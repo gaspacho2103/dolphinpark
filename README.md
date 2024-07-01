@@ -2,10 +2,11 @@ Welcome to Dolphin Aquapark!
 
 ![image](https://github.com/gaspacho2103/dolphinpark/assets/130499580/0d124be2-b3bf-4e5f-bdd6-6f225859a3c6)
 
+
 How to install and open this project?
 
 Step 1:
-  Use 'git clone' or 'Download ZIP' to install the project on your computer.
+  Use 'git clone' or 'Download ZIP' to install project on your computer.
 
   ![image](https://github.com/gaspacho2103/dolphinpark/assets/130499580/54284ae5-b03e-411b-bb6e-6bdb6ab79aa1)
 
